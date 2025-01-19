@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+### Acciones adicionales
+Se requiere un API_KEY del sitio openweathermap para poder autenticarse y consumir los recursos
